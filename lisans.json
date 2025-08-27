@@ -556,5 +556,644 @@
   },
   {
     "value": "Zootekni"
-  }
+  },
+    {
+    "value":"Aile ve Tüketici Bilimleri"
+},
+{
+    "value":"Antrenörlük Eğitimi"
+},
+{
+    "value":"Antropoloji"
+},
+{
+    "value":"Arkeoloji"
+},
+{
+    "value":"Ayakkabı Tasarımı ve Üretimi"
+},
+{
+    "value":"Bankacılık"
+},
+{
+    "value":"Bankacılık ve Finans"
+},
+{
+    "value":"Bankacılık ve Sigortacılık"
+},
+{
+    "value":"Beden Eğitimi ve Spor Öğretmenliği"
+},
+{
+    "value":"Bilgi ve Belge Yönetimi"
+},
+{
+    "value":"Bilim Tarihi"
+},
+{
+    "value":"Çalışma Ekonomisi ve Endüstri İlişkileri"
+},
+{
+    "value":"Çocuk Gelişimi"
+},
+{
+    "value":"Denizcilik İşletmeleri Yönetimi"
+},
+{
+    "value":"E-Ticaret"
+},
+{
+    "value":"Egzersiz ve Spor Bilimleri"
+},
+{
+    "value":"Eğitim Bilimleri"
+},
+{
+    "value":"Ekonometri"
+},
+{
+    "value":"Ekonomi"
+},
+{
+    "value":"Ekonomi ve Finans"
+},
+{
+    "value":"Elektronik Ticaret ve Yönetimi"
+},
+{
+    "value":"Emlak ve Emlak Yönetimi"
+},
+{
+    "value":"Enerji Yönetimi"
+},
+{
+    "value":"Felsefe"
+},
+{
+    "value":"Felsefe Grubu Öğretmenliği"
+},
+{
+    "value":"Finans ve Bankacılık"
+},
+{
+    "value":"Gayrimenkul Geliştirme ve Yönetimi"
+},
+{
+    "value":"Grafik"
+},
+{
+    "value":"Grafik Sanatlar"
+},
+{
+    "value":"Grafik Tasarımı"
+},
+{
+    "value":"Gümrük İşletme"
+},
+{
+    "value":"Havacılık Yönetimi"
+},
+{
+    "value":"Hukuk"
+},
+{
+    "value":"İç Mimarlık ve Çevre Tasarımı"
+},
+{
+    "value":"İktisadi ve İdari Bilimler Programları"
+},
+{
+    "value":"İktisat"
+},
+{
+    "value":"İnsan Kaynakları Yönetimi"
+},
+{
+    "value":"İslam İktisadı ve Finans"
+},
+{
+    "value":"İşletme"
+},
+{
+    "value":"Kamu Yönetimi"
+},
+{
+    "value":"Klasik Arkeoloji"
+},
+{
+    "value":"Kuyumculuk ve Mücevher Tasarımı"
+},
+{
+    "value":"Kültür Varlıklarını Koruma ve Onarım"
+},
+{
+    "value":"Küresel Siyaset ve Uluslararası İlişkiler"
+},
+{
+    "value":"Lojistik Yönetimi"
+},
+{
+    "value":"Maliye"
+},
+{
+    "value":"Moda Tasarımı"
+},
+{
+    "value":"Muhasebe ve Finans Yönetimi"
+},
+{
+    "value":"Müzecilik"
+},
+{
+    "value":"Organik Tarım İşletmeciliği"
+},
+{
+    "value":"Otel Yöneticiliği"
+},
+{
+    "value":"Pazarlama"
+},
+{
+    "value":"Politika ve Ekonomi"
+},
+{
+    "value":"Protohistorya ve Ön Asya Arkeolojisi"
+},
+{
+    "value":"Psikoloji"
+},
+{
+    "value":"Psikolojik Danışmanlık ve Rehberlik"
+},
+{
+    "value":"Psikolojik Danışmanlık ve Rehberlik Öğretmenliği"
+},
+{
+    "value":"Rehberlik ve Psikolojik Danışmanlık"
+},
+{
+    "value":"Rekreasyon"
+},
+{
+    "value":"Saç ve Güzellik Uygulamaları"
+},
+{
+    "value":"Sağlık Yönetimi"
+},
+{
+    "value":"Sanat ve Sosyal Bilimler Programları"
+},
+{
+    "value":"Sermaye Piyasası"
+},
+{
+    "value":"Seyahat İşletmeciliği"
+},
+{
+    "value":"Seyahat İşletmeciliği ve Turizm Rehberliği"
+},
+{
+    "value":"Sınıf Öğretmenliği"
+},
+{
+    "value":"Sigortacılık"
+},
+{
+    "value":"Sigortacılık ve Aktüerya Bilimleri"
+},
+{
+    "value":"Sigortacılık ve Risk Yönetimi"
+},
+{
+    "value":"Sigortacılık ve Sosyal Güvenlik"
+},
+{
+    "value":"Siyaset Bilimi"
+},
+{
+    "value":"Siyaset Bilimi ve Kamu Yönetimi"
+},
+{
+    "value":"Siyaset Bilimi ve Uluslararası İlişkiler"
+},
+{
+    "value":"Sosyal Hizmet"
+},
+{
+    "value":"Sosyoloji"
+},
+{
+    "value":"Spor Yöneticiliği"
+},
+{
+    "value":"Takı Tasarımı ve İmalatı"
+},
+{
+    "value":"Tapu Kadastro"
+},
+{
+    "value":"Tarım Ekonomisi"
+},
+{
+    "value":"Tarım Ticareti ve İşletmeciliği"
+},
+{
+    "value":"Tarih Öncesi Arkeolojisi"
+},
+{
+    "value":"Teknoloji ve Bilgi Yönetimi"
+},
+{
+    "value":"Tekstil Tasarımı"
+},
+{
+    "value":"Tekstil ve Moda Tasarımı"
+},
+{
+    "value":"Turizm İşletmeciliği"
+},
+{
+    "value":"Turizm ve Gastronomi Yönetimi Programları"
+},
+{
+    "value":"Turizm ve Otel İşletmeciliği"
+},
+{
+    "value":"Türk İslam Arkeolojisi"
+},
+{
+    "value":"Uluslararası Finans"
+},
+{
+    "value":"Uluslararası Finans ve Bankacılık"
+},
+{
+    "value":"Uluslararası Girişimcilik"
+},
+{
+    "value":"Uluslararası İlişkiler"
+},
+{
+    "value":"Uluslararası İşletme Yönetimi"
+},
+{
+    "value":"Uluslararası Ticaret"
+},
+{
+    "value":"Uluslararası Ticaret ve Finans"
+},
+{
+    "value":"Uluslararası Ticaret ve Finansman"
+},
+{
+    "value":"Uluslararası Ticaret ve İşletmecilik"
+},
+{
+    "value":"Uluslararası Ticaret ve Lojistik"
+},
+{
+    "value":"Yerel Yönetimler"
+},
+{
+    "value":"Yiyecek ve İçecek İşletmeciliği"
+},
+{
+    "value":"Yönetim Bilimleri Programları"
+},
+{
+    "value":"Yönetim Bilişim Sistemleri"
+},
+{
+    "value":"Abaza Dili ve Edebiyatı"
+},
+{
+    "value":"Arkeoloji ve Sanat Tarihi"
+},
+{
+    "value":"Azerbaycan Türkçesi ve Edebiyatı"
+},
+{
+    "value":"Basın ve Yayın"
+},
+{
+    "value":"Coğrafya"
+},
+{
+    "value":"Coğrafya Öğretmenliği"
+},
+{
+    "value":"Çağdaş Türk Lehçeleri ve Edebiyatları"
+},
+{
+    "value":"Çerkez Dili ve Edebiyatı"
+},
+{
+    "value":"Çerkez Dili ve Kültürü"
+},
+{
+    "value":"Çizgi Film ve Animasyon"
+},
+{
+    "value":"El Sanatları"
+},
+{
+    "value":"Film Tasarımı ve Yazarlığı"
+},
+{
+    "value":"Film Tasarımı ve Yönetimi"
+},
+{
+    "value":"Film Tasarımı ve Yönetmenliği"
+},
+{
+    "value":"Fotoğraf"
+},
+{
+    "value":"Fotoğraf ve Video"
+},
+{
+    "value":"Gastronomi ve Mutfak Sanatları"
+},
+{
+    "value":"Gazetecilik"
+},
+{
+    "value":"Geleneksel Türk Sanatları"
+},
+{
+    "value":"Görsel İletişim Tasarımı"
+},
+{
+    "value":"Görsel Sanatlar"
+},
+{
+    "value":"Görsel Sanatlar ve İletişim Tasarımı"
+},
+{
+    "value":"Gürcü Dili ve Edebiyatı"
+},
+{
+    "value":"Halkbilimi"
+},
+{
+    "value":"Halkla İlişkiler ve Pazarlama İletişimi"
+},
+{
+    "value":"Halkla İlişkiler ve Reklamcılık"
+},
+{
+    "value":"Halkla İlişkiler ve Tanıtım"
+},
+{
+    "value":"İlahiyat"
+},
+{
+    "value":"İletişim"
+},
+{
+    "value":"İletişim Bilimleri"
+},
+{
+    "value":"İletişim Tasarımı ve Yönetimi"
+},
+{
+    "value":"İletişim ve Tasarımı"
+},
+{
+    "value":"İslami İlimler"
+},
+{
+    "value":"Kurgu, Ses ve Görüntü Yönetimi"
+},
+{
+    "value":"Kültür ve İletişim Bilimleri"
+},
+{
+    "value":"Kürt Dili ve Edebiyatı"
+},
+{
+    "value":"Medya ve Görsel Sanatlar"
+},
+{
+    "value":"Medya ve İletişim"
+},
+{
+    "value":"Okul Öncesi Öğretmenliği"
+},
+{
+    "value":"Özel Eğitim Öğretmenliği"
+},
+{
+    "value":"Radyo, Televizyon ve Sinema"
+},
+{
+    "value":"Reklam Tasarımı ve İletişimi"
+},
+{
+    "value":"Reklamcılık"
+},
+{
+    "value":"Rekreasyon Yönetimi"
+},
+{
+    "value":"Sanat Tarihi"
+},
+{
+    "value":"Sanat ve Kültür Yönetimi"
+},
+{
+    "value":"Sinema ve Dijital Medya"
+},
+{
+    "value":"Sinema ve Televizyon"
+},
+{
+    "value":"Sosyal Bilgiler Öğretmenliği"
+},
+{
+    "value":"Sümeroloji"
+},
+{
+    "value":"Süryani Dili ve Edebiyatı"
+},
+{
+    "value":"Tarih"
+},
+{
+    "value":"Tarih Öğretmenliği"
+},
+{
+    "value":"Televizyon Haberciliği ve Programcılığı"
+},
+{
+    "value":"Tiyatro Eleştirmenliği ve Dramaturji"
+},
+{
+    "value":"Türk Dili ve Edebiyatı"
+},
+{
+    "value":"Türk Dili ve Edebiyatı Öğretmenliği"
+},
+{
+    "value":"Türk Halkbilimi"
+},
+{
+    "value":"Türkçe Öğretmenliği"
+},
+{
+    "value":"Türkoloji"
+},
+{
+    "value":"Yeni Medya"
+},
+{
+    "value":"Yeni Medya ve İletişim"
+},
+{
+    "value":"Adalet"
+},
+{
+    "value":"Zaza Dili ve Edebiyatı"
+},
+{
+    "value":"Alman Dili ve Edebiyatı"
+},
+{
+    "value":"Almanca Mütercim ve Tercümanlık"
+},
+{
+    "value":"Almanca Öğretmenliği"
+},
+{
+    "value":"Amerikan Kültürü ve Edebiyatı"
+},
+{
+    "value":"Arap Dili ve Edebiyatı"
+},
+{
+    "value":"Arapça Mütercim ve Tercümanlık"
+},
+{
+    "value":"Arapça Öğretmenliği"
+},
+{
+    "value":"Arnavut Dili ve Edebiyatı"
+},
+{
+    "value":"Boşnak Dili ve Edebiyatı"
+},
+{
+    "value":"Bulgar Dili ve Edebiyatı"
+},
+{
+    "value":"Bulgarca Mütercim ve Tercümanlık"
+},
+{
+    "value":"Çağdaş Yunan Dili ve Edebiyatı"
+},
+{
+    "value":"Çin Dili ve Edebiyatı"
+},
+{
+    "value":"Çince Mütercim ve Tercümanlık"
+},
+{
+    "value":"Ermeni Dili ve Kültürü"
+},
+{
+    "value":"Eski Yunan Dili ve Edebiyatı"
+},
+{
+    "value":"Fars Dili ve Edebiyatı"
+},
+{
+    "value":"Farsça Mütercim ve Tercümanlık"
+},
+{
+    "value":"Fransız Dili ve Edebiyatı"
+},
+{
+    "value":"Fransızca Mütercim ve Tercümanlık"
+},
+{
+    "value":"Fransızca Öğretmenliği"
+},
+{
+    "value":"İbrani Dili ve Kültürü"
+},
+{
+    "value":"İngiliz Dilbilimi"
+},
+{
+    "value":"İngiliz Dili ve Edebiyatı"
+},
+{
+    "value":"İngilizce Mütercim ve Tercümanlık"
+},
+{
+    "value":"İngilizce Öğretmenliği"
+},
+{
+    "value":"İngilizce Öğretmenliği-Elt"
+},
+{
+    "value":"İngilizce, Fransızca Mütercim ve Tercümanlık"
+},
+{
+    "value":"İspanyol Dili ve Edebiyatı"
+},
+{
+    "value":"İspanyolca Mütercim ve Tercümanlık"
+},
+{
+    "value":"İtalyan Dili ve Edebiyatı"
+},
+{
+    "value":"Japon Dili ve Edebiyatı"
+},
+{
+    "value":"Japonca Mütercim ve Tercümanlık"
+},
+{
+    "value":"Japonca Öğretmenliği"
+},
+{
+    "value":"Karşılaştırmalı Edebiyat"
+},
+{
+    "value":"Kore Dili ve Edebiyatı"
+},
+{
+    "value":"Latin Dili ve Edebiyatı"
+},
+{
+    "value":"Leh Dili ve Edebiyatı"
+},
+{
+    "value":"Mütercim-Tercümanlık"
+},
+{
+    "value":"Rus Dili ve Edebiyatı"
+},
+{
+    "value":"Rus Dili ve Edebiyatı Öğretmenliği"
+},
+{
+    "value":"Rusça Mütercim ve Tercümanlık"
+},
+{
+    "value":"Sırp Dili ve Edebiyatı"
+},
+{
+    "value":"Turizm Rehberliği"
+},
+{
+    "value":"Ukrayna Dili ve Edebiyatı"
+},
+{
+    "value":"Urdu Dili ve Edebiyatı"
+},
+{
+    "value":"Yunan Dili ve Edebiyatı"
+}
 ]
