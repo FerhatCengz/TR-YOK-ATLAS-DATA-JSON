@@ -1,2 +1,5 @@
-# TR_YOK_ATLAS_VER-
-Yök Atlas 2025 Ön Lisans ve Lisans bölümleri json
+# CDN
+
+Universite : https://cdn.jsdelivr.net/gh/FerhatCengz/TR-YOK-ATLAS-DATA-JSON@main/university.json
+
+Bolumler : https://cdn.jsdelivr.net/gh/FerhatCengz/TR-YOK-ATLAS-DATA-JSON@main/bolumler-all.json
